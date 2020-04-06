@@ -57,7 +57,6 @@ function setup () {
 
 
 function draw () {
-  // console.log(counterFlowersFinished, flowers.length)
   if (counter !== tree.length - 1) {
     // background(39, 43, 48);
     image(backgroundImage, 0, 0, width, height)
